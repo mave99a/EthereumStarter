@@ -1,7 +1,7 @@
 ----
-template: homepage
-auther: Robert Mao 
-draft: true
+- template: homepage
+- auther: Robert Mao 
+- draft: true
 ----
 
 # Ethereum dApp Starter Blocklet

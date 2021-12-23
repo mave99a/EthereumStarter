@@ -1,5 +1,5 @@
 ---
-emplate: homepage
+template: homepage
 auther: Robert Mao 
 draft: true
 ---
@@ -10,6 +10,11 @@ TBD: Will add slides and project code soon. Prepared for ETH Denver 2022
 
 
 [title]
+
+---
+template: sections
+---
+
 2 Presentation Ideas TBD: 
 
 [ideas]
